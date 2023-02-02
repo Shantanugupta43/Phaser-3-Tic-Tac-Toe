@@ -14,7 +14,7 @@ A Multiplayer Tic-Tac-Toe Application built using JavaScript Phaser 3 Framework.
  
  1. To install the following game extract the following file in the local system and open the folder using VS Code
  
- 2. Ensure Node.js is already installed in the system. Node.js could be installed by using different methods such as installing packages from official website or using nvm (Copes, et al., n.d.).
+ 2. Ensure Node.js is already installed in the system. Node.js could be installed by using different methods such as installing packages from official website or using nvm.
     To install Node.js and NPM follow instructions on the following link https://nodejs.org/en/download/ and download the package matching device specifications.
 
  3. Once Node.js is installed, open a terminal by navigating to Terminal >> New Terminal and enter the following command ``npm install phaser``
