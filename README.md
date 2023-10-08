@@ -1,5 +1,7 @@
 <h1> Tic-Tac-Toe game using Phaser 3 Framework. </h1>
 
+Link to the game - tictactoeshantanugupta.netlify.app
+
 A Multiplayer Tic-Tac-Toe Application built using JavaScript Phaser 3 Framework. Contains the following features -
 
 - Displays Main Menu and instructions on how to play.
